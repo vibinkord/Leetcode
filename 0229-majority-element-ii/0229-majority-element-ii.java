@@ -1,29 +1,19 @@
-class Solution {
+import java.util.*;
+
+public class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        if (nums.length==2&&nums[0]!=nums[1]){
-        List<Integer> list = new ArrayList<>();
-        for(int num:nums) list.add(num);
-        return list;
-        }
-        int candidate = 0;
-        int count = 0;
-        // List<Integer> lt = new ArrayList<>();
-        Set<Integer> se=new HashSet<>();
-
+        Map<Integer, Integer> freqMap = new HashMap<>();
+        int n = nums.length;
         for (int num : nums) {
-            if (count == 0) {
-                candidate = num;
-                count = 1;
-            } else if (num == candidate) {
-                count++;
-            } else {
-                count--;
-            }
-            se.add(candidate);
+            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
         }
-        List<Integer> list = new ArrayList<>(se);
+        List<Integer> result = new ArrayList<>();
+        for (Map.Entry<Integer, Integer> entry : freqMap.entrySet()) {
+            if (entry.getValue() > n / 3) {
+                result.add(entry.getKey());
+            }
+        }
 
-
-        return list;
+        return result;
     }
 }
