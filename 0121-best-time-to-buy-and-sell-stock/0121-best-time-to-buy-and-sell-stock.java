@@ -4,11 +4,13 @@ class Solution {
         int maxProfit = 0;
 
         for (int price : prices) {
-            if (price < minPrice) {
-                minPrice = price;       // Update the minimum price seen so far
-            } else if (price - minPrice > maxProfit) {
-                maxProfit = price - minPrice;  // Calculate max profit using current price and min price
-            }
+            // if (price < minPrice) {
+            //     minPrice = price;       // 
+            // } else if (price - minPrice > maxProfit) {
+            //     maxProfit = price - minPrice; 
+            //     }
+            minPrice = Math.min(minPrice, price);
+maxProfit = Math.max(maxProfit, price - minPrice);
         }
         return maxProfit;
     }
