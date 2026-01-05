@@ -97,6 +97,10 @@ class EventManager {
         LocalDateTime eventStart = event.getStartTime();
         LocalDateTime eventEnd = event.getEndTime();
         
+        if (eventStart == null || eventEnd == null) {
+            return false;
+        }
+        
         return !(eventEnd.isBefore(rangeStart) || eventStart.isAfter(rangeEnd));
     }
 
@@ -111,7 +115,7 @@ class EventManager {
         }
         
         return events.values().stream()
-                .filter(event -> event.getEndTime().isAfter(fromTime))
+                .filter(event -> event.getEndTime() != null && event.getEndTime().isAfter(fromTime))
                 .sorted(Comparator.comparing(Event::getStartTime))
                 .collect(Collectors.toList());
     }
