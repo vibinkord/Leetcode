@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0202-happy-number](https://github.com/vibinkord/GITHUB/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/vibinkord/GITHUB/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/vibinkord/GITHUB/tree/main/0263-ugly-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
