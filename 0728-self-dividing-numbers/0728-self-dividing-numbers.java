@@ -2,8 +2,8 @@ class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
         List <Integer> lst=new ArrayList<>();
         for(int i=left;i<=right;i++){
-            if(i<10) lst.add(i);
-            else{
+            // if(i<10) lst.add(i);
+            // else{
                 int aa=i;
                 boolean f= true;
                 while(aa>0){
@@ -13,7 +13,7 @@ class Solution {
                 }
 
                 if(f)lst.add(i);
-            }
+            // }
         }
         return lst;
     }
