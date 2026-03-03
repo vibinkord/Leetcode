@@ -21,8 +21,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/vibinkord/GITHUB/tree/main/0258-add-digits/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/vibinkord/GITHUB/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/vibinkord/GITHUB/tree/main/0258-add-digits/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/vibinkord/GITHUB/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 <!---LeetCode Topics End-->
