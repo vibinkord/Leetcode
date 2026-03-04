@@ -35,5 +35,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/vibinkord/GITHUB/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/vibinkord/GITHUB/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
