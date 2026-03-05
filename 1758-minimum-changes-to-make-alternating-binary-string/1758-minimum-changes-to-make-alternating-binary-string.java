@@ -1,19 +1,31 @@
 class Solution {
     public int minOperations(String s) {
-        int count1 = 0;
-        int count2 = 0;
+       return Math.min(min(s,"0"),min(s,"1"));
+    }
 
-        for(int i = 0; i < s.length(); i++){
-            
-            // pattern 010101
-            char expected1 = (i % 2 == 0) ? '0' : '1';
-            if(s.charAt(i) != expected1) count1++;
+    static int min (String s1,String start){
+        String s[]=s1.split("");
+        int c=0;
 
-            // pattern 101010
-            char expected2 = (i % 2 == 0) ? '1' : '0';
-            if(s.charAt(i) != expected2) count2++;
+        if(!s[0].equals(start)){
+            s[0]=start;
+            c++;
         }
 
-        return Math.min(count1, count2);
+        for(int i=0;i<s.length-1;i++){
+            if(s[i].equals("0")){
+                if(!s[i+1].equals("1")){
+                    s[i+1]="1";
+                    c++;
+                }
+            }
+            else{
+                if(!s[i+1].equals("0")){
+                    s[i+1]="0";
+                    c++;
+                }
+            }
+        }
+        return c;
     }
 }
