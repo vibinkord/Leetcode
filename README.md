@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vibinkord/GITHUB/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vibinkord/GITHUB/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Database
 | Problem Name | Difficulty |
