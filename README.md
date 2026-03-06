@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vibinkord/GITHUB/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vibinkord/GITHUB/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vibinkord/GITHUB/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Database
