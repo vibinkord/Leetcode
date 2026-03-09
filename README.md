@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0511-game-play-analysis-i](https://github.com/vibinkord/GITHUB/tree/main/0511-game-play-analysis-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/vibinkord/GITHUB/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/vibinkord/GITHUB/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1280-students-and-examinations](https://github.com/vibinkord/GITHUB/tree/main/1280-students-and-examinations/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
