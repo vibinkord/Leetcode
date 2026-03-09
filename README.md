@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1193-monthly-transactions-i](https://github.com/vibinkord/GITHUB/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/vibinkord/GITHUB/tree/main/1280-students-and-examinations/) | Easy |
 | [1341-movie-rating](https://github.com/vibinkord/GITHUB/tree/main/1341-movie-rating/) | Medium |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vibinkord/GITHUB/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/vibinkord/GITHUB/tree/main/1683-invalid-tweets/) | Easy |
 ## Array
 | Problem Name | Difficulty |
