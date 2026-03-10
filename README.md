@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vibinkord/GITHUB/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/vibinkord/GITHUB/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/vibinkord/GITHUB/tree/main/1683-invalid-tweets/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/vibinkord/GITHUB/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
