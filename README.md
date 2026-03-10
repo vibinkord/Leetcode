@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/vibinkord/GITHUB/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/vibinkord/GITHUB/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/vibinkord/GITHUB/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/vibinkord/GITHUB/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/vibinkord/GITHUB/tree/main/0595-big-countries/) | Easy |
 | [0608-tree-node](https://github.com/vibinkord/GITHUB/tree/main/0608-tree-node/) | Medium |
