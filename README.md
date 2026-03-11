@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/vibinkord/GITHUB/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/vibinkord/GITHUB/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/vibinkord/GITHUB/tree/main/0263-ugly-number/) | Easy |
+| [0326-power-of-three](https://github.com/vibinkord/GITHUB/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/vibinkord/GITHUB/tree/main/0728-self-dividing-numbers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vibinkord/GITHUB/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -78,5 +79,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/vibinkord/GITHUB/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/vibinkord/GITHUB/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
