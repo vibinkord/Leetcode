@@ -66,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/vibinkord/GITHUB/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
