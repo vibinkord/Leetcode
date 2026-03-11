@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/vibinkord/GITHUB/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/vibinkord/GITHUB/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/vibinkord/GITHUB/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/vibinkord/GITHUB/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
@@ -70,10 +71,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/vibinkord/GITHUB/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/vibinkord/GITHUB/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/vibinkord/GITHUB/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
