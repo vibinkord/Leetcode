@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/vibinkord/GITHUB/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/vibinkord/GITHUB/tree/main/1148-article-views-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/vibinkord/GITHUB/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/vibinkord/GITHUB/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/vibinkord/GITHUB/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/vibinkord/GITHUB/tree/main/1280-students-and-examinations/) | Easy |
 | [1341-movie-rating](https://github.com/vibinkord/GITHUB/tree/main/1341-movie-rating/) | Medium |
