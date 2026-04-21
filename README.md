@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/vibinkord/GITHUB/tree/main/0020-valid-parentheses/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/vibinkord/GITHUB/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vibinkord/GITHUB/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vibinkord/GITHUB/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -87,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/vibinkord/GITHUB/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/vibinkord/GITHUB/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/vibinkord/GITHUB/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
