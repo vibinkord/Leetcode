@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/vibinkord/GITHUB/tree/main/0036-valid-sudoku/) | Medium |
 | [0202-happy-number](https://github.com/vibinkord/GITHUB/tree/main/0202-happy-number/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2540-minimum-common-value](https://github.com/vibinkord/GITHUB/tree/main/2540-minimum-common-value/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/vibinkord/GITHUB/tree/main/0202-happy-number/) | Easy |
+| [2540-minimum-common-value](https://github.com/vibinkord/GITHUB/tree/main/2540-minimum-common-value/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/vibinkord/GITHUB/tree/main/0036-valid-sudoku/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vibinkord/GITHUB/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2540-minimum-common-value](https://github.com/vibinkord/GITHUB/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/vibinkord/GITHUB/tree/main/0036-valid-sudoku/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2540-minimum-common-value](https://github.com/vibinkord/GITHUB/tree/main/2540-minimum-common-value/) | Easy |
 <!---LeetCode Topics End-->
