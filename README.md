@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2540-minimum-common-value](https://github.com/vibinkord/GITHUB/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vibinkord/GITHUB/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vibinkord/GITHUB/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vibinkord/GITHUB/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vibinkord/GITHUB/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vibinkord/GITHUB/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
