@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vibinkord/GITHUB/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vibinkord/GITHUB/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vibinkord/GITHUB/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vibinkord/GITHUB/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vibinkord/GITHUB/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Database
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/vibinkord/GITHUB/tree/main/0036-valid-sudoku/) | Medium |
 | [0819-most-common-word](https://github.com/vibinkord/GITHUB/tree/main/0819-most-common-word/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/vibinkord/GITHUB/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vibinkord/GITHUB/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vibinkord/GITHUB/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2540-minimum-common-value](https://github.com/vibinkord/GITHUB/tree/main/2540-minimum-common-value/) | Easy |
