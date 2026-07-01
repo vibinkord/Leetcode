@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/vibinkord/GITHUB/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/vibinkord/GITHUB/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vibinkord/GITHUB/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/vibinkord/GITHUB/tree/main/0728-self-dividing-numbers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vibinkord/GITHUB/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Two Pointers
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vibinkord/GITHUB/tree/main/0020-valid-parentheses/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vibinkord/GITHUB/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/vibinkord/GITHUB/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/vibinkord/GITHUB/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/vibinkord/GITHUB/tree/main/0819-most-common-word/) | Easy |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/vibinkord/GITHUB/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vibinkord/GITHUB/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/vibinkord/GITHUB/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
