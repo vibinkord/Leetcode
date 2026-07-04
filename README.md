@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/vibinkord/GITHUB/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/vibinkord/GITHUB/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vibinkord/GITHUB/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [3379-transformed-array](https://github.com/vibinkord/GITHUB/tree/main/3379-transformed-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2540-minimum-common-value](https://github.com/vibinkord/GITHUB/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vibinkord/GITHUB/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3379-transformed-array](https://github.com/vibinkord/GITHUB/tree/main/3379-transformed-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vibinkord/GITHUB/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
