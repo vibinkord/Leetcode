@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vibinkord/GITHUB/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/vibinkord/GITHUB/tree/main/0728-self-dividing-numbers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vibinkord/GITHUB/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vibinkord/GITHUB/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
