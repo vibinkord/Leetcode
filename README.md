@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vibinkord/GITHUB/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/vibinkord/GITHUB/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vibinkord/GITHUB/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vibinkord/GITHUB/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Two Pointers
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/vibinkord/GITHUB/tree/main/0819-most-common-word/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/vibinkord/GITHUB/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/vibinkord/GITHUB/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vibinkord/GITHUB/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vibinkord/GITHUB/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vibinkord/GITHUB/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/vibinkord/GITHUB/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +196,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/vibinkord/GITHUB/tree/main/0257-binary-tree-paths/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
