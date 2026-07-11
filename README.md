@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vibinkord/GITHUB/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/vibinkord/GITHUB/tree/main/0036-valid-sudoku/) | Medium |
 | [0202-happy-number](https://github.com/vibinkord/GITHUB/tree/main/0202-happy-number/) | Easy |
 | [0819-most-common-word](https://github.com/vibinkord/GITHUB/tree/main/0819-most-common-word/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vibinkord/GITHUB/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/vibinkord/GITHUB/tree/main/0020-valid-parentheses/) | Easy |
 | [0257-binary-tree-paths](https://github.com/vibinkord/GITHUB/tree/main/0257-binary-tree-paths/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vibinkord/GITHUB/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vibinkord/GITHUB/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vibinkord/GITHUB/tree/main/0257-binary-tree-paths/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
