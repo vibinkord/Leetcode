@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibinkord/GITHUB/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/vibinkord/GITHUB/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/vibinkord/GITHUB/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vibinkord/GITHUB/tree/main/0257-binary-tree-paths/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vibinkord/GITHUB/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/vibinkord/GITHUB/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibinkord/GITHUB/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/vibinkord/GITHUB/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vibinkord/GITHUB/tree/main/0257-binary-tree-paths/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
@@ -209,4 +211,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/vibinkord/GITHUB/tree/main/1291-sequential-digits/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/vibinkord/GITHUB/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
