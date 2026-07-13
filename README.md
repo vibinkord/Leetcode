@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/vibinkord/GITHUB/tree/main/0078-subsets/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/vibinkord/GITHUB/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/vibinkord/GITHUB/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/vibinkord/GITHUB/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vibinkord/GITHUB/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/vibinkord/GITHUB/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2540-minimum-common-value](https://github.com/vibinkord/GITHUB/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vibinkord/GITHUB/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String Matching
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/vibinkord/GITHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vibinkord/GITHUB/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vibinkord/GITHUB/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/vibinkord/GITHUB/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0257-binary-tree-paths](https://github.com/vibinkord/GITHUB/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/vibinkord/GITHUB/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/vibinkord/GITHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vibinkord/GITHUB/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vibinkord/GITHUB/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/vibinkord/GITHUB/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0257-binary-tree-paths](https://github.com/vibinkord/GITHUB/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/vibinkord/GITHUB/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
