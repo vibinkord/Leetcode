@@ -207,5 +207,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/vibinkord/GITHUB/tree/main/1291-sequential-digits/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
