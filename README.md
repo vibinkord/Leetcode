@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/vibinkord/GITHUB/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/vibinkord/GITHUB/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/vibinkord/GITHUB/tree/main/0078-subsets/) | Medium |
 | [0819-most-common-word](https://github.com/vibinkord/GITHUB/tree/main/0819-most-common-word/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/vibinkord/GITHUB/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibinkord/GITHUB/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/vibinkord/GITHUB/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/vibinkord/GITHUB/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/vibinkord/GITHUB/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vibinkord/GITHUB/tree/main/0257-binary-tree-paths/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
