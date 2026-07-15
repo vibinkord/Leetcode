@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/vibinkord/GITHUB/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vibinkord/GITHUB/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vibinkord/GITHUB/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vibinkord/GITHUB/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/vibinkord/GITHUB/tree/main/0258-add-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vibinkord/GITHUB/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
