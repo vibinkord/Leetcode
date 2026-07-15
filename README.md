@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/vibinkord/GITHUB/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/vibinkord/GITHUB/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/vibinkord/GITHUB/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/vibinkord/GITHUB/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/vibinkord/GITHUB/tree/main/0078-subsets/) | Medium |
 | [0819-most-common-word](https://github.com/vibinkord/GITHUB/tree/main/0819-most-common-word/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/vibinkord/GITHUB/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/vibinkord/GITHUB/tree/main/0047-permutations-ii/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vibinkord/GITHUB/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vibinkord/GITHUB/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vibinkord/GITHUB/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/vibinkord/GITHUB/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/vibinkord/GITHUB/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/vibinkord/GITHUB/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/vibinkord/GITHUB/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/vibinkord/GITHUB/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vibinkord/GITHUB/tree/main/0257-binary-tree-paths/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vibinkord/GITHUB/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
