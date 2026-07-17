@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibinkord/GITHUB/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/vibinkord/GITHUB/tree/main/0036-valid-sudoku/) | Medium |
+| [0141-linked-list-cycle](https://github.com/vibinkord/GITHUB/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/vibinkord/GITHUB/tree/main/0202-happy-number/) | Easy |
 | [0819-most-common-word](https://github.com/vibinkord/GITHUB/tree/main/0819-most-common-word/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/vibinkord/GITHUB/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/vibinkord/GITHUB/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/vibinkord/GITHUB/tree/main/0202-happy-number/) | Easy |
 | [2540-minimum-common-value](https://github.com/vibinkord/GITHUB/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vibinkord/GITHUB/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -235,4 +237,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vibinkord/GITHUB/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/vibinkord/GITHUB/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
