@@ -241,4 +241,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vibinkord/GITHUB/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vibinkord/GITHUB/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/vibinkord/GITHUB/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/vibinkord/GITHUB/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
